@@ -10,3 +10,7 @@ This repository is for my GitHub Desktop training assignment.
 - Creating branches
 - Merging branches
 - Using pull requests
+
+## Branch Practice
+
+I created this section on a separate branch before merging it into main.
