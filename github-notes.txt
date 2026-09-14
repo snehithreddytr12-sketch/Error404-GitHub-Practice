@@ -1,0 +1,5 @@
+GitHub Practice Notes
+
+Git tracks changes in files.
+GitHub stores repositories online.
+GitHub Desktop makes it easier to work with Git.
